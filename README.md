@@ -22,3 +22,7 @@ R studio로 정제, 분석, 시각화 하는 프로젝트입니다.
 - 실무형 프로젝트로 데이터 분석 및 시각화 경험을 쌓을 수 있다.
 
 ## 통계 시각화
+<img width="1440" height="859" alt="Image" src="https://github.com/user-attachments/assets/a5565eac-f00b-4e2e-8e0b-5b5f74f30c56" />
+<img width="938" height="520" alt="Image" src="https://github.com/user-attachments/assets/3f2dbde6-2c3d-4f84-8ac4-1bfcab9ad72d" />
+<img width="830" height="526" alt="Image" src="https://github.com/user-attachments/assets/296fb779-9ca5-40a7-bed3-ba875a59af1a" />
+<img width="973" height="632" alt="Image" src="https://github.com/user-attachments/assets/1898ca86-a533-4d13-9db5-1efa5e6f601f" />
